@@ -8,7 +8,7 @@
 - Daha sonra İnjectoru çalıştırın ve bekleyin. Sonra oyuna giriş yapın.
 - Lobi ekranında hileyi inject edin ve sunucuya girin.
 # İndirme linki 
- - [Rust Hile](https://dosya.co/0rhqndq3q6us/Glory_Community.rar.html )
+ - [Rust Hile](https://dosya.co/uyfzf9l833vo/Glory_Community.rar.html)
 ## Vip Sürümünü Nasıl Satın Alırım?
 - Discord sunucumuzdan ticket açarak ya da web sitemizi ziyaret ederek vip sürümünü satın alabilirsiniz. 
 - website: https://retaycheats.com/
