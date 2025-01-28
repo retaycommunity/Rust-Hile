@@ -8,7 +8,7 @@
 - Daha sonra İnjectoru çalıştırın ve bekleyin. Sonra oyuna giriş yapın.
 - Lobi ekranında hileyi inject edin ve sunucuya girin.
 # İndirme linki 
- - [Rust Hile](https://dosya.co/sje7mfrkaaf5/Loader.rar.html)
+ - [Rust Hile](https://dosya.co/8ygfaj9cwp7j/Loader.rar.html)
 ## Vip Sürümünü Nasıl Satın Alırım?
 - Discord sunucumuzdan ticket açarak ya da web sitemizi ziyaret ederek vip sürümünü satın alabilirsiniz. 
 - website: https://retaycheats.com/
